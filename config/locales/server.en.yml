@@ -1,0 +1,3 @@
+en:
+  site_settings:
+    debtcollective_migratepassword_enabled: "Enables passwords from old platform to work"
